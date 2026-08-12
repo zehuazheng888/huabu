@@ -1,0 +1,20 @@
+{
+  "version": "1.1.0",
+  "url": "https://github.com/zehuazheng888/huabu/releases/download/v1.1.0/NYFC_update_1.1.0.zip",
+  "sha256": "9a091b94a148f893b2628b53147e784d5705fbe60442be4bbaa0836cc0e20b1f",
+  "notes": "NYFC 首次发布 · 化步",
+  "files": {
+    "nyfu_lite.py": "18b99d627b8934c48e1d4c24710ee28b34c9e3281a2c0ad2777ef8f3922efeb4",
+    "nyfu_oneclick.py": "513e5701420a8b755b4372d5183b4bea65e77622bf0f03857cddd41158771bd7",
+    "nyfu_translate.py": "0c28b97b6e8ac678f64216901f648411b321cd4ff412e1eb30c1f6a10ad2de0c",
+    "nyfu_gui.py": "2bb043aa60b00a96ae12a618b1f039636e71ef2f8a4cc9f960928063f5645058",
+    "srt2ass.py": "9d1ca096aae5bd18b5740f4b7db0f2a30ab2a73a553ccca8ee4a551c3fa8cbeb",
+    "read_cookies.py": "bd99cc1fb26fa91dfc54df99b453d934bfa4ca0866a5a72c91df5eb8264aa3f2",
+    "integrity.py": "9946ae57a1927d37e2ea9a6194c5fbdf7e283fe4175df5b2dafbbc4ae825bd2b",
+    "启动NYFC.bat": "6608a4ac85824635ace3f0b66bae6380a8a4267dfdb5141cc9f20e8a8d800001",
+    "README.txt": "bfeb39b09c54a21344b7f66a8907c1216cef986509e286e7a9de9995ace46126",
+    "NYFC_使用教程.txt": "70896b48980e457618e5eac49d047239708fe187ed30d9f78fd3f049338f0827",
+    "requirements.txt": "3d80308d78e8731992b95ffc83f1c172b31f8908abc9b53e69de61cb8b472f02",
+    "integrity.dat": "905aae3fdc9f876b507739146dc6abdc3d5c958b08c1b964bd59030e5531294b"
+  }
+}
