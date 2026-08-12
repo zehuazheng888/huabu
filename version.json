@@ -1,7 +1,7 @@
 {
   "version": "1.1.0",
   "url": "https://github.com/zehuazheng888/huabu/releases/download/v1.1.0/NYFC_update_1.1.0.zip",
-  "sha256": "9a091b94a148f893b2628b53147e784d5705fbe60442be4bbaa0836cc0e20b1f",
+  "sha256": "9ab03e1b03af557dda893d9cc7d5ebfb0328305032bceb95d845e82ba29cf83e",
   "notes": "NYFC 首次发布 · 化步",
   "files": {
     "nyfu_lite.py": "18b99d627b8934c48e1d4c24710ee28b34c9e3281a2c0ad2777ef8f3922efeb4",
@@ -14,7 +14,7 @@
     "启动NYFC.bat": "6608a4ac85824635ace3f0b66bae6380a8a4267dfdb5141cc9f20e8a8d800001",
     "README.txt": "bfeb39b09c54a21344b7f66a8907c1216cef986509e286e7a9de9995ace46126",
     "NYFC_使用教程.txt": "70896b48980e457618e5eac49d047239708fe187ed30d9f78fd3f049338f0827",
-    "requirements.txt": "3d80308d78e8731992b95ffc83f1c172b31f8908abc9b53e69de61cb8b472f02",
+    "requirements.txt": "e0c396a969b3a7cd969c3063c13ae2e868152a56c351d98a1f230a0ba05d894e",
     "integrity.dat": "905aae3fdc9f876b507739146dc6abdc3d5c958b08c1b964bd59030e5531294b"
   }
 }
